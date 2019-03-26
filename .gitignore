@@ -15,6 +15,7 @@ FLOYD_README.md
 core
 data/
 output/
+.idea
 
 # C extensions
 *.so
